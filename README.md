@@ -11,10 +11,10 @@ Written with AutoHotKey.
 
 ![alt text](https://github.com/ZETALVX/FastSearch-AutoHotKey/blob/main/CaptureExamples/Cattura33.png?raw=true)
 
-          ||                                      ||                                     ||   
-          ||                                      ||                                     ||
-         \  /                                    \  /                                   \  /     
-          \/                                      \/                                     \/
+          ||
+          ||
+         \  /   
+          \/ 
   
 ![alt text](https://github.com/ZETALVX/FastSearch-AutoHotKey/blob/main/CaptureExamples/Cattura55.png?raw=true)
 
