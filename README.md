@@ -5,6 +5,9 @@ Clicking "alt + s" the window opens, here you can write what you are looking for
 
 Written with AutoHotKey.
 
+Here you can find the .exe version:
+https://github.com/ZETALVX/FastSearch.exe
+
 ![alt text](https://github.com/ZETALVX/FastSearch-AutoHotKey/blob/main/CaptureExamples/Cattura22.png?raw=true)
 
 ------------------------------------------------------------------------------------------------------------
