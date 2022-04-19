@@ -64,5 +64,4 @@ ExitApp
 
 !s::
 Goto, GUIC
-;WinSet, Top,,"ahk_exe" "FastSearch"
 return
