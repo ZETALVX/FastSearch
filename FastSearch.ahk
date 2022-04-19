@@ -15,8 +15,7 @@ Gui, Show,AutoSize,FastSearch
 return
 
 Ok:
-Gui,Submit,Nohide ;Remove Nohide if you want the GUI to hide.
-;MsgBox, You want to do '%List%' with '%text%'
+Gui,Submit,Nohide
 StringLen, textl, text
 if(List="Google")
 {
