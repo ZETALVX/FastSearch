@@ -1,7 +1,6 @@
 ﻿I_Icon = fs-logo-mod-new-ico.ico
 IfExist, %I_Icon%
   Menu, Tray, Icon, %I_Icon%
-;@Ahk2Exe-SetMainIcon %I_Icon%
 
 Gui, Add, Text,, Enter your search:
 Gui, Add, Edit, w400 h100 vtext,
