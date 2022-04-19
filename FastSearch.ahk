@@ -31,7 +31,7 @@ Run %parameter%
 }
 if(List="Odysee")
 {
-parameter = https://odysee.com/$/search?q=%text%
+parameter = https://odysee.com/$/discover?t=%text%
 StringReplace, parameter, parameter, %A_Space%, +, All
 Run %parameter%
 }
