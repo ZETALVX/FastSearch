@@ -1,7 +1,7 @@
 # FastSearch---AutoHotKey
 A small program useful for performing quick searches.
 
-Clicking "alt + s" the window opens, here you can write what you are looking for and set what to use (google, youtube, DuckDuckgo, link). 
+Clicking "alt + s" the window opens, here you can write what you are looking for and set what to use (Google, Youtube, DuckDuckgo, Odysee, Yahoo or direct url). 
 
 Written with AutoHotKey.
 
